@@ -1,0 +1,11 @@
+# Real-Time Industrial IoT Monitoring System
+
+This project implements a hybrid edge-cloud monitoring solution using Raspberry Pi, Azure IoT Hub, Power BI, and more.
+
+## Tools Used
+- Python, MQTT, Node-RED, InfluxDB, Azure IoT Hub, Power BI
+
+## Key Features
+- <50ms latency local visualization
+- Real-time fault detection
+- Scalable to 10,000+ data points/min
